@@ -1,3 +1,4 @@
 #### Volcanoes on Venus Image Classifier
 
-Train various machine learning models to recognize if a given image of the planet Venus has a volcano in it or not. Compare model performance.
+I trained various machine learning models (Random Forest, SVM, XGBoost, LR, CNN) to recognize if a given image of the planet Venus has a volcano in it or not and compared model performance.
+
